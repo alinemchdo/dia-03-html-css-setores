@@ -1,0 +1,12 @@
+.img{
+    width: 500px;
+}
+.hippocampus {
+    color: blueviolet;
+}
+.paragrafos{
+    background-color: rgb(240, 240, 240);
+    width: 80%;
+    height: 300px;
+    overflow: auto;
+}
